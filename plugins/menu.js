@@ -64,6 +64,7 @@ Cara Tambah XP:
 ╠➥ ${_p}qr <teks>
 ╠➥ ${_p}stiker (caption)
 ╠➥ ${_p}stiker <url>
+╠➥ ${_p}nulis <teks>
 ╠➥ ${_p}toimg (reply)
 ╠➥ ${_p}bucin
 ╠➥ ${_p}ssweb <url>
