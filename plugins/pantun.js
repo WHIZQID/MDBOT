@@ -19,6 +19,7 @@ function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
 
+// https://jalantikus.com/tips/kata-kata-bucin/
 global.bucin = [
 1] Ada anak kecil bermain batu
 Batu dilempar masuk ke sumur
