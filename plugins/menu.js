@@ -57,8 +57,8 @@ Cara Tambah XP:
 ╠➥ ${_p}help
 ╠➥ ${_p}?
 ║
-╠═〘 Tutor BoT 〙 ═
-╠➥ ${_p}tutorial
+╠═〘 Kata Pengantar 〙 ═
+╠➥ ${_p}pantun
 ║
 ╠═〘 Others 〙 ═
 ╠➥ ${_p}qr <teks>
@@ -102,6 +102,11 @@ Cara Tambah XP:
 ╠═〘 IKLAN 〙 ═
 ╠➥ Telegram: @WHIZQIDS
 ╠➥ Twitter: @BaLa_DE19WA
+║
+║─────╔╗╔╗────╔╗─
+║╔══╗╔╝║║╚╗╔═╗║╚╗
+║║║║║║╬║║╬║║╬║║╔╣
+║╚╩╩╝╚═╝╚═╝╚═╝╚═╝
 ║
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : MD BOT
