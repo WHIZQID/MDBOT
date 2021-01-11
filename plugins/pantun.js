@@ -19,8 +19,8 @@ function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
 
-// https://jalantikus.com/tips/kata-kata-bucin/
-global.bucin = [
+// https://jalantikus.com/tips/pantun-lucu/
+global.pantun = [
 1] Ada anak kecil bermain batu
 Batu dilempar masuk ke sumur
 Belajar itu tak kenal waktu
