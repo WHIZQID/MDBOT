@@ -100,7 +100,7 @@ Cara Tambah XP:
 ║
 ╠═〘 IKLAN 〙 ═
 ╠➥ Telegram: @WHIZQIDS
-╠➥ Github: https://github.com/WHIZQID/MDBOT
+╠➥ Twitter: @BaLa_DE19WA
 ║
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : MD BOT
