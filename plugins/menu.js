@@ -33,7 +33,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
 🤖 [MD BOT] 🤖
-Created Bye: @MR D1CK
+Created Bye: @WHIZQIDS
 
 Hi, ${name} 👋
 Exp: ${exp}
