@@ -2,8 +2,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ╠═〘 INFO BOT 〙 ═
 ╠➥ Dibuat dengan bahasa javascript via NodeJs
-╠➥ Rec: MR D1CK
-╠➥ Script: @QIDS
+╠➥ Rec: WHIZQIDS
+╠➥ Script: @MDBOT
 ║
 ╠➥ Facebook: @symbi4nerz
 ╠➥ Telegram: @WHIZQIDS
