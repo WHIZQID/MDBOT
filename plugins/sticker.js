@@ -7,17 +7,17 @@ let handler  = async (m, { conn, args }) => {
   if (/image/.test((m.quoted ? m.quoted : m).mtype)) {
     let img = await conn.downloadM(q)
     if (!img) throw img
-    let stiker = await sticker(img)
-stiker = await nStiker(stiker, {
+    let sticker = await sticker(img)
+sticker = await nSticker(sticker, {
  author: 'You',
  name: 'Stickers'
 })
-    conn.sendMessage(m.chat, stiker, MessageType.sticker, {
+    conn.sendMessage(m.chat, sticker, MessageType.sticker, {
       quoted: m
     })
   } else if (args[0]) {
-    let stiker = await sticker(false, args[0])
-    conn.sendMessage(m.chat, stiker, MessageType.sticker, {
+    let sticker = await sticker(false, args[0])
+    conn.sendMessage(m.chat, sticker, MessageType.sticker, {
       quoted: m
     })
   }
@@ -94,7 +94,7 @@ function uploadImage(buffer) {
 }
 let { spawnSync } = require('child_process')
 let fs = require('fs')
-async function nStiker(input, options) {
+async function nSticker(input, options) {
     const exifPath = 'data.exif'
     const resultPath = 'sticker.webp'
     fs.writeFileSync(resultPath, input)
