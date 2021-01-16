@@ -72,7 +72,7 @@ Cara Tambah XP:
 ╠➥ ${_p}google <pencarian>
 ╠➥ ${_p}googlef <pencarian>
 ╠➥ ${_p}readmore <teks>|<sembunyi>
-╠➥ ${_p}quran
+╠➥ ${_p}murothal
 ╠➥ ${_p}modApk
 ║
 ╠═〘 Group 〙 ═
