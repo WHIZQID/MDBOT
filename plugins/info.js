@@ -22,7 +22,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ║
 ║>Request? Wa.me/13132900007
 ║
-╠═〘 NfQ BOT 〙 ═
+╠═〘 MD BOT 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
