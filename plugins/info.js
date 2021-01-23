@@ -10,9 +10,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Twitter: @BaLa_DE19WA
 ║
 ╠═〘 Thanks To 〙 ═
-╠➥ Nurotomo
-╠➥ MfarelS
-╠➥ ST4RZ
+╠➥ MR D1CK
+╠➥ WHIZQID
+╠➥ BALADEWA
 ╠➥ JEMBER LOVERS :)
 ║
 ╠═〘 DONASI 〙 ═
