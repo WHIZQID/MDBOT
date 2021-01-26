@@ -33,7 +33,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 `.trim(), m)
 }
 handler.help = ['info']
-handler.tags = ['about']
+handler.tags = ['info']
 handler.command = /^(info)$/i
 handler.owner = false
 handler.mods = false
