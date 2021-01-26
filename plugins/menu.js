@@ -59,7 +59,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
           if (menu.help) groups[tag].push(menu)
     }
     conn.menu = conn.menu ? conn.menu : {}
-    let before = conn.menu.before || `${conn.getName(conn.user.jid)} • Bot\n\nHai, %name!\n\nTotal: *%exp XP*\nLimit Anda: *%limit Limit*\nTanggal: *%week, %date*\n Waktu: *%time*\n_Uptime: %uptime_\n  %totalreg User in database\n\n: Telegram:\nhttps://t.me/WHIZQIDS\nScript ©BaLa_DE18WA \n\n 🔰JOIN GRUP:🔰\n https://chat.whatsapp.com/DdJa4YuH7q9Cuw90RLs851 \n\n%readmore`
+    let before = conn.menu.before || `${conn.getName(conn.user.jid)} • Bot\n\nHai, %name!\n\nTotal: *%exp XP*\nLimit Anda: *%limit Limit*\nTanggal: *%week, %date*\n Waktu: *%time*\n_Uptime: %uptime_\n  %totalreg User in database\n\n: Telegram:\nhttps://t.me/WHIZQIDS\nScript ©BaLa_DE19WA \n\n 🔰JOIN GRUP:🔰\n https://chat.whatsapp.com/DdJa4YuH7q9Cuw90RLs851 \n\n%readmore`
     let header = conn.menu.header || '╭════•›「 %category 」'
     let body   = conn.menu.body   || '┠❥ %cmd%islimit'
     let footer = conn.menu.footer || '╰═══════════════\n'
